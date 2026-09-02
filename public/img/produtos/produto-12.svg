@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Vassoura de fibra de coco com cabo de madeira certificada">
+  <rect width="640" height="480" fill="#eee9de" />
+  <!-- rodapé da parede -->
+  <rect x="0" y="392" width="640" height="88" fill="#e2dbcb" />
+  <line x1="0" y1="392" x2="640" y2="392" stroke="#b9ae97" stroke-width="2" />
+
+  <g transform="rotate(-8 320 240)">
+    <!-- cabo de madeira -->
+    <rect x="302" y="72" width="24" height="212" rx="12" fill="#c2a06a" stroke="#9a7c4d" stroke-width="2.5" />
+    <line x1="310" y1="92" x2="310" y2="264" stroke="#d9bf90" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    <!-- furo de pendurar -->
+    <circle cx="314" cy="90" r="5" fill="none" stroke="#9a7c4d" stroke-width="2.5" />
+
+    <!-- amarração -->
+    <rect x="286" y="278" width="56" height="30" rx="9" fill="#8a6a3f" stroke="#6f5432" stroke-width="2.5" />
+    <line x1="286" y1="293" x2="342" y2="293" stroke="#a8834f" stroke-width="3" />
+
+    <!-- cerdas de fibra de coco -->
+    <path d="M282 306h64l24 96H258Z" fill="#a8701c" stroke="#7f5314" stroke-width="2.5" stroke-linejoin="round" />
+    <g stroke="#7f5314" stroke-width="2.4" stroke-linecap="round" opacity="0.65">
+      <path d="M292 314l-10 84M306 312l-5 88M320 312v88M334 312l5 88M346 314l10 84" />
+    </g>
+  </g>
+
+  <!-- folha, marca da loja -->
+  <g stroke="#1f6b41" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+    <path d="M540 296c0 34-19 55-46 55a23 23 0 0 1-22-16c7-29 32-39 68-39Z" />
+    <path d="M496 354c6-19 19-34 38-42" />
+  </g>
+</svg>

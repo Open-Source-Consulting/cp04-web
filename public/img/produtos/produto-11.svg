@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Jogo de potes de vidro com tampa de bambu">
+  <rect width="640" height="480" fill="#eee9de" />
+  <!-- bancada -->
+  <rect x="0" y="376" width="640" height="104" fill="#e2dbcb" />
+  <line x1="0" y1="376" x2="640" y2="376" stroke="#b9ae97" stroke-width="2" />
+
+  <!-- pote grande -->
+  <g>
+    <rect x="120" y="176" width="128" height="200" rx="14" fill="#dfe7e2" stroke="#8fa398" stroke-width="2.5" />
+    <rect x="132" y="252" width="104" height="112" rx="8" fill="#cfdbd3" opacity="0.75" />
+    <rect x="114" y="152" width="140" height="30" rx="9" fill="#c2a06a" stroke="#9a7c4d" stroke-width="2.5" />
+    <line x1="150" y1="196" x2="150" y2="352" stroke="#ffffff" stroke-width="7" opacity="0.55" stroke-linecap="round" />
+  </g>
+
+  <!-- pote médio -->
+  <g>
+    <rect x="272" y="216" width="106" height="160" rx="12" fill="#dfe7e2" stroke="#8fa398" stroke-width="2.5" />
+    <rect x="282" y="276" width="86" height="88" rx="7" fill="#cfdbd3" opacity="0.75" />
+    <rect x="266" y="194" width="118" height="27" rx="8" fill="#c2a06a" stroke="#9a7c4d" stroke-width="2.5" />
+    <line x1="298" y1="234" x2="298" y2="352" stroke="#ffffff" stroke-width="6" opacity="0.55" stroke-linecap="round" />
+  </g>
+
+  <!-- pote pequeno -->
+  <g>
+    <rect x="402" y="252" width="88" height="124" rx="11" fill="#dfe7e2" stroke="#8fa398" stroke-width="2.5" />
+    <rect x="411" y="298" width="70" height="66" rx="6" fill="#cfdbd3" opacity="0.75" />
+    <rect x="396" y="232" width="100" height="25" rx="8" fill="#c2a06a" stroke="#9a7c4d" stroke-width="2.5" />
+    <line x1="426" y1="268" x2="426" y2="352" stroke="#ffffff" stroke-width="5.5" opacity="0.55" stroke-linecap="round" />
+  </g>
+
+  <!-- folha, marca da loja -->
+  <g stroke="#1f6b41" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+    <path d="M556 300c0 34-19 55-46 55a23 23 0 0 1-22-16c7-29 32-39 68-39Z" />
+    <path d="M512 358c6-19 19-34 38-42" />
+  </g>
+</svg>
