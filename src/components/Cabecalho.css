@@ -1,0 +1,75 @@
+.cabecalho {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-header);
+  background: rgba(246, 243, 236, 0.88);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--rule);
+}
+
+.cabecalho__interno {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-5);
+  height: var(--header-h);
+}
+
+.marca {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-2);
+  text-decoration: none;
+  color: var(--ink);
+  flex-shrink: 0;
+}
+
+.marca__simbolo {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--r-md);
+  background: var(--green);
+  color: var(--paper-raised);
+}
+
+.marca__nome {
+  font-family: var(--font-display);
+  font-size: var(--t-md);
+  font-weight: 500;
+  letter-spacing: var(--track-display);
+}
+
+.marca__nome-forte {
+  font-weight: 900;
+}
+
+.cabecalho__carrinho {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.cabecalho__badge {
+  display: grid;
+  place-items: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 0.35rem;
+  background: var(--green);
+  color: var(--paper-raised);
+  border-radius: 99px;
+  font-size: var(--t-xs);
+  font-weight: 700;
+  line-height: 1;
+}
+
+@media (max-width: 420px) {
+  .cabecalho__carrinho-texto {
+    display: none;
+  }
+
+  .cabecalho__carrinho {
+    padding-inline: 0.8rem;
+  }
+}
