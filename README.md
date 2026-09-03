@@ -104,10 +104,8 @@ npm run preview
 
 ## Como publicar
 
-O projeto está configurado para a Vercel. O passo a passo completo — envio para o
-GitHub, publicação e conferência antes da entrega — está em [DEPLOY.md](DEPLOY.md).
-
-O histórico de commits do projeto está descrito em [UPDATES.md](UPDATES.md).
+O projeto está configurado para a Vercel. O passo a passo de publicação e
+conferência antes da entrega está em [DEPLOY.md](DEPLOY.md).
 
 ---
 
@@ -152,7 +150,6 @@ cp04-web/
 ├── index.html
 ├── vite.config.js
 ├── vercel.json
-├── UPDATES.md                   # passo a passo dos commits
 └── DEPLOY.md                    # como publicar
 ```
 

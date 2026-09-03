@@ -1,0 +1,79 @@
+.botao {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s-2);
+  padding: 0.7rem 1.15rem;
+  border-radius: var(--r-md);
+  font-size: var(--t-sm);
+  font-weight: 650;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  white-space: nowrap;
+  border: 1px solid transparent;
+  transition: background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out),
+    transform var(--dur-fast) var(--ease-out);
+}
+
+.botao:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.botao:not(:disabled):active {
+  transform: translateY(1px);
+}
+
+.botao--primario {
+  background-color: var(--green);
+  color: var(--paper-raised);
+  box-shadow: var(--shadow-sm);
+}
+
+.botao--primario:not(:disabled):hover {
+  background-color: var(--green-deep);
+  box-shadow: var(--shadow-md);
+}
+
+.botao--secundario {
+  background-color: var(--paper-raised);
+  border-color: var(--rule-strong);
+  color: var(--ink);
+}
+
+.botao--secundario:not(:disabled):hover {
+  border-color: var(--green);
+  color: var(--green-deep);
+  background-color: var(--green-wash);
+}
+
+.botao--discreto {
+  background-color: transparent;
+  color: var(--ink-soft);
+  padding: 0.45rem 0.6rem;
+}
+
+.botao--discreto:not(:disabled):hover {
+  background-color: var(--paper-sunk);
+  color: var(--ink);
+}
+
+.botao--bloco {
+  width: 100%;
+}
+
+.botao--grande {
+  padding: 0.95rem 1.4rem;
+  font-size: var(--t-base);
+}
+
+.botao--icone {
+  padding: 0;
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  border-radius: var(--r-md);
+}

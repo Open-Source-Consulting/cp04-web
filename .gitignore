@@ -5,3 +5,6 @@ dist-ssr
 .DS_Store
 .vite
 .vercel
+
+.impeccable/
+PRODUCT.md
