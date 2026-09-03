@@ -30,7 +30,7 @@
       "descricao": "Malha pesada de algodão cultivado sem irrigação artificial, tingida com pigmento mineral.",
       "preco": 129.9,
       "categoria": "roupas",
-      "imagem": "img/produtos/produto-01.jpg",
+      "imagem": "img/produtos/produto-01.webp",
       "selo": "Algodão regenerativo",
       "impacto": "Economiza 2.400 L de água por peça",
       "estoque": 24
@@ -41,7 +41,7 @@
       "descricao": "Cabedal feito com garrafas PET recuperadas e solado de borracha natural reaproveitada.",
       "preco": 289,
       "categoria": "roupas",
-      "imagem": "img/produtos/produto-02.jpg",
+      "imagem": "img/produtos/produto-02.webp",
       "selo": "8 garrafas PET",
       "impacto": "Solado de borracha natural",
       "estoque": 12
@@ -52,7 +52,7 @@
       "descricao": "Lona de algodão encerado com cera vegetal, costura reforçada e ferragem reparável.",
       "preco": 349.9,
       "categoria": "roupas",
-      "imagem": "img/produtos/produto-03.jpg",
+      "imagem": "img/produtos/produto-03.webp",
       "selo": "Cera vegetal",
       "impacto": "Ferragens substituíveis",
       "estoque": 9
@@ -63,7 +63,7 @@
       "descricao": "Fibra de bambu de crescimento rápido, macia e naturalmente antibacteriana.",
       "preco": 69.9,
       "categoria": "roupas",
-      "imagem": "img/produtos/produto-04.jpg",
+      "imagem": "img/produtos/produto-04.webp",
       "selo": "Fibra de bambu",
       "impacto": "Cultivo sem agrotóxico",
       "estoque": 40
@@ -74,7 +74,7 @@
       "descricao": "Barra sólida concentrada que rende como dois frascos, sem sulfato e sem embalagem plástica.",
       "preco": 42.5,
       "categoria": "beleza",
-      "imagem": "img/produtos/produto-05.jpg",
+      "imagem": "img/produtos/produto-05.webp",
       "selo": "Zero plástico",
       "impacto": "Substitui 2 frascos de 400 ml",
       "estoque": 55
@@ -85,7 +85,7 @@
       "descricao": "Base de óleo de coco e bicarbonato em estojo de alumínio com refil.",
       "preco": 58,
       "categoria": "beleza",
-      "imagem": "img/produtos/produto-06.jpg",
+      "imagem": "img/produtos/produto-06.webp",
       "selo": "Refil disponível",
       "impacto": "Estojo de alumínio reutilizável",
       "estoque": 33
@@ -96,7 +96,7 @@
       "descricao": "Cabo de bambu moso compostável com cerdas macias de nylon reciclado.",
       "preco": 24.9,
       "categoria": "beleza",
-      "imagem": "img/produtos/produto-07.jpg",
+      "imagem": "img/produtos/produto-07.webp",
       "selo": "Cabo compostável",
       "impacto": "Troca 4 escovas plásticas por ano",
       "estoque": 80
@@ -107,7 +107,7 @@
       "descricao": "Extração a frio de castanha amazônica, cadeia de fornecimento rastreada até a comunidade.",
       "preco": 118,
       "categoria": "beleza",
-      "imagem": "img/produtos/produto-08.jpg",
+      "imagem": "img/produtos/produto-08.webp",
       "selo": "Origem rastreada",
       "impacto": "Extrativismo comunitário",
       "estoque": 18
@@ -118,7 +118,7 @@
       "descricao": "Três tamanhos de tecido encerado que substituem filme plástico por até um ano.",
       "preco": 79.9,
       "categoria": "casa",
-      "imagem": "img/produtos/produto-09.jpg",
+      "imagem": "img/produtos/produto-09.webp",
       "selo": "Reutilizável 1 ano",
       "impacto": "Substitui filme plástico",
       "estoque": 27
@@ -129,7 +129,7 @@
       "descricao": "Sistema de compostagem sem odor para apartamento, com peneira e manual de manejo.",
       "preco": 259,
       "categoria": "casa",
-      "imagem": "img/produtos/produto-10.jpg",
+      "imagem": "img/produtos/produto-10.webp",
       "selo": "Resíduo zero",
       "impacto": "Desvia 8 kg de lixo por mês",
       "estoque": 14
@@ -162,7 +162,7 @@
       "descricao": "Painel dobrável de silício monocristalino com duas saídas USB-C para uso em campo.",
       "preco": 429,
       "categoria": "tecnologia",
-      "imagem": "img/produtos/produto-13.jpg",
+      "imagem": "img/produtos/produto-13.webp",
       "selo": "Energia solar",
       "impacto": "Independe da rede elétrica",
       "estoque": 8
@@ -173,7 +173,7 @@
       "descricao": "Luminária de mesa com LED de 9 W, dimerização em três níveis e base de bambu laminado.",
       "preco": 199.9,
       "categoria": "tecnologia",
-      "imagem": "img/produtos/produto-14.jpg",
+      "imagem": "img/produtos/produto-14.webp",
       "selo": "9 W",
       "impacto": "85% menos consumo que incandescente",
       "estoque": 16
@@ -184,7 +184,7 @@
       "descricao": "Alto-falante bluetooth com bateria trocável pelo usuário e gabinete de plástico oceânico.",
       "preco": 379,
       "categoria": "tecnologia",
-      "imagem": "img/produtos/produto-15.jpg",
+      "imagem": "img/produtos/produto-15.webp",
       "selo": "Bateria trocável",
       "impacto": "Gabinete de plástico oceânico",
       "estoque": 11
@@ -195,7 +195,7 @@
       "descricao": "Tomada inteligente que mede o gasto de cada aparelho e envia o histórico ao aplicativo.",
       "preco": 149,
       "categoria": "tecnologia",
-      "imagem": "img/produtos/produto-16.jpg",
+      "imagem": "img/produtos/produto-16.webp",
       "selo": "Monitoramento",
       "impacto": "Identifica consumo oculto",
       "estoque": 25
